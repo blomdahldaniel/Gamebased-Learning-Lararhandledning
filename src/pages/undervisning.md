@@ -1,10 +1,22 @@
 
-# Undervisning i Samhällskunskap
+# Undervisning
+Denna undervisning är tänkt att komplettera ett pågående arbete med genusrepresentation eller angränsande områden. Följande material och instruktioner är naturligtvis bara ett förslag på upplägg. Anpassa och skräddarsy det till att passa dig och dina elever.
 
 
-## Lektion 1
+## Lektion
+Lektionen leds av en powerpoint-presentation som driver lektionen framåt. Lektionen är indelad i 4 delar:
+
+- Inledande presentation som bygger på dialog med eleverna
+- Eleverna delas in i små grupper och får öva sig i att göra en analys av 2 andra karaktärer. 
+- Varje grupp får presentera någon/några punkter som de kom fram till under samtalen
+- Sammanfattning av ämnet
+    + Knyt samman till din tidigare/kommande undervisning på området
+    + Eventuellt introducera kommande lektions fördjupning
+
+
+## Presentation-punkter
 - Vad är en hjälte? (få klassen att komma på punkter till detta, hjälp dom på traven. T.ex. punkterna):
-    + Superkrafter
+    Superkrafter
     + Modig
     + Tuff
     osv. osv..
@@ -79,7 +91,7 @@ Och det finns faktiskt också en manlig karaktär som faktiskt ser lite sensuell
 
 
 Visa en manlig hjälte, beskriv honom, huvudförmåga, utseende, biografi och röst
-Visa en kvinlig hjälte, beskriv henne, huvudförmåga, utseende, biografi och röst
+Visa en kvinnlig hjälte, beskriv henne, huvudförmåga, utseende, biografi och röst
 
 Peka ut skillnader mellan dom, 
 Story, hon måste ha gått igenom ett trauma, han är bara cool
@@ -95,10 +107,11 @@ Såhär är det ju överallt, en kille kan vara lite tramsig, kanske se lite tö
 (Här får du som lärare ta över och plocka in din vidare vinkel in i detta.)
 
 
-## Vad kan spelet lära oss?
 
 
 ---
+
+## Fördjupning
 
 - Vet alla vem Super Mario är?
     - Är han en hjälte?
@@ -118,8 +131,7 @@ Såhär är det ju överallt, en kille kan vara lite tramsig, kanske se lite tö
         * Bella Swan i Twillight (Hon är tuff och handlingskraftig men fortfarande är hon placerad i en roll där hon måste bli räddad)
         * Spider Man (Mary Jane)
 
-## Lektion 2
-Lorem ipsum dolor.
+
 
 <!-- Första 2 exemplen -->
 [Pantheon]: http://gameinfo.eune.leagueoflegends.com/en/game-info/champions/pantheon/

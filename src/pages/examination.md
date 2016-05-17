@@ -1,5 +1,12 @@
 # Examination
-Som en del i ett prov t.ex.
+För att säkerställa att eleverna lärt sig kunskapen behöver kunskapen på något vis examineras. Detta anpassas så klart efter situation och grupp. Här följer förslag på möjlig uppföljning.
+- Prov eller som en del av ett prov
+- Inlämningsarbete, grupp eller individuellt
+- Muntlig presentation, grupp eller individuellt
+- Samtal i smågrupper
+
+
+## Förslag på frågor
 
 __Analysera en av de utvalda karaktärerna från spelet League Of Legends. Analysera hur karaktären framställs i följande avseenden:__
 
