@@ -33,7 +33,8 @@ Okej, låt oss ta en titt här,
 - Är detta en hjälte?
 Varför? [Bild på Pantheon][Pantheon]
 
-Detta är Pantheon, han är en champion i spelet League of Legends. Hur många har koll på League of Legends här? Vilka har spelat League of Legends någon gång det senaste halvåret?
+Detta är Pantheon, han är en champion i spelet League of Legends.
+Är det någon här som aldrig hört talas om League of Legends? Vilka har spelat League of Legends någon gång det senaste halvåret?
 
 För att alla ska veta vad det handlar om så ska jag bara prata lite kort om hur spelet fungerar, vad det går ut på. Så att alla säkert vet ifall någon inte vet. Jag är väl medveten om att ni kan detta spelet tusen gånger bättre än jag men jag vill ändå berätta om hur det fungerar i stort
 
@@ -44,8 +45,8 @@ Okej, så nu vet vi vad LoL handlar om. Och då känns det ju som vår Champion 
 Låt oss ta en titt på nästa bild. (Visa en bild av [LeBlanc][LeBlanc])
 Är det någon som vet vem detta är? (om fråga behövs..)
 Om vi bara tittar på henne, kan vi veta att hon är en hjälte då?
-Varför / Varför inte?
-Hur är dom olika i sin skildring?
+Varför (ta in svar från klassen)
+Varför inte? (ta in svar från klassen)
 Hennes framställning kallas sexualiserad
 En karaktär som i sin biografi är en tuff tjej, verkligen!
 Hon är supercool! Men av någon anledning har man valt att klä av henne nästan naken. Kläder som hade varit väldigt extrema om vi hade sett någon ha på sig sådana kläder.
