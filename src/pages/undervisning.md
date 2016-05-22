@@ -103,34 +103,8 @@ Hon pratar sensuellt
 - Varför är detta konstigt?
 Kvinnor sätts i en roll där hon måste vara snygg
 Män kan var dumma, fula, konstiga, men den kvinnliga karaktären måste alltid vara söt eller sensuell.
-Såhär är det ju överallt, en kille kan vara lite tramsig, kanske se lite töntig ut, men en tjej måste alltid vara fin, söt. Och har ett annat krav på sig att se fin ut.
+Såhär är det ju överallt, en kille kan vara lite tramsig, kanske se lite töntig ut, men en tjej _måste_ alltid vara fin och söt. Och har ett annat krav på sig att se fin ut.
 (Här får du som lärare ta över och plocka in din vidare vinkel in i detta.)
-
-
-
-
----
-
-## Fördjupning
-
-- Vet alla vem Super Mario är?
-    - Är han en hjälte?
-    - Varför är han en hjälte? (ta in punkter)
-        + Han kan hoppa högt
-        + Han kan slå huvudet och magiska saker dyker upp
-        + Han kan äta svampar som gör honom större
-        + Han kan ibland flyga eller kasta eldbollar
-        + Han dödar superbossar
-
-- Super Mario är ett perfekt exempel på hur en hjälte i ett spel fungerar. Han har unika förmågor som får honom att hoppa högt, kunna äta svampar som gör honom större osv osv. Men Super Mario är också ett perfekt exempel på hur kvinnor representeras i spel. För prinsessan Peach, är porträtterad som en kvinna som ständigt kidnappas av Super Marios motståndare bowser. Så Super Mario blir då en karaktär som ska rädda prinsessan Peach medans prinsessan Peach är en handlingsförlamad prinsessa som inte kan bidra till att rädda sigsjälv utan är helt beroende av Super Mario.
-- Detta i sig är ju inget konstigt, det är ju bara en historia, och denna typ av historia kallas för __Jungfru i nöd__. Detta fenomenet är väldigt gammalt, det finns till och med berättelser från antika grekland där en vacker kvinna är kedjades fast vid en sten mitt i vattnet och vaktades av ett hemskt monster. Perseus som då var den manliga hjälten kunde då befria henne genom sin styrka och sitt stora mod. Efter det blev dom naturligtvis kära och gifte sig. Men denna typ av funktion finns naturligtvis i väldigt många andra typer av media.
-    + Har ni några exempel på där man kan se funktionen av Jungfru i nöd? (Förslag:)
-        * Snövit
-        * James Bond, varje film har en "bondbrud"
-        * Rapunzel
-        * Bella Swan i Twillight (Hon är tuff och handlingskraftig men fortfarande är hon placerad i en roll där hon måste bli räddad)
-        * Spider Man (Mary Jane)
-
 
 
 <!-- Första 2 exemplen -->

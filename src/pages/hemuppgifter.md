@@ -1,2 +1,0 @@
-# Hemuppgifter
-Lorem ipsum dolor.

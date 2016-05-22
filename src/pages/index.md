@@ -10,6 +10,5 @@
 <<[maal-och-maalgrupp.md]
 <<[introduktion.md]
 <<[undervisning.md]
-<<[hemuppgifter.md]
 <<[examination.md]
 <<[fordjupning.md]
