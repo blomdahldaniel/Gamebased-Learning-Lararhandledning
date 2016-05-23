@@ -72,6 +72,8 @@ Och de mest töntiga/dumma/konstiga eller fula kvinnliga karaktärerna (lika mä
 - [Illaoi][Illaoi]
 - [Kalista][Kalista]
 
+- [Soraka][Soraka]
+
 Och som sagt då är det bland de hjältar som ändå har en mänsklig framställning. Det finns flera karaktärer som är andra typer av djur eller varelser.
 
 Vad är negativt med 
@@ -117,6 +119,8 @@ Såhär är det ju överallt, en kille kan vara lite tramsig, kanske se lite tö
 [Ahri]: http://gameinfo.eune.leagueoflegends.com/en/game-info/champions/ahri/
 [Akali]: http://gameinfo.eune.leagueoflegends.com/en/game-info/champions/akali/
 [Ashe]: http://gameinfo.eune.leagueoflegends.com/en/game-info/champions/ashe/
+
+[Soraka]: http://gameinfo.eune.leagueoflegends.com/en/game-info/champions/soraka/
 
 <!-- Töntiga manliga karaktärer -->
 [Dr.Mundo]:http://gameinfo.eune.leagueoflegends.com/en/game-info/champions/drmundo/
